@@ -26,7 +26,7 @@ list_of_domains = ['supersqa.com', 'gmail.com', 'yahoo.com', 'outlook.com', 'msn
 
 len_of_email = 10 # 10 characters in email
 letters = string.ascii_lowercase
-output_path = '/Users/anna/Desktop/txt/out_generate_random_email_with_list_of_domains_v1.csv'
+output_path = '/Users/txt/out_generate_random_email_with_list_of_domains_v1.csv'        #path changed
 
 # generate random emails and store in the list
 all_emails = []
